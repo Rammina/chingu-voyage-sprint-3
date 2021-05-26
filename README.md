@@ -194,6 +194,7 @@ These are just my thoughts based on what we've experienced in the past 3 weeks, 
 <br>
 
 - If we want to add something to someone else's work or assist someone, make sure to ask for permission first and checkout to a different branch after pulling or cloning their work.
+- If we want to collaborate or assist someone with their components/pages/tasks, pair programming is great to ensure smooth workflow and also to exchange information.
 - Duplicate work and out of sync files (files that are completely different from up-to-date branches) can really use up a lot of time that we have in a Sprint. It's best to avoid these as much as possible.
 
 <br>
@@ -202,7 +203,7 @@ These are just my thoughts based on what we've experienced in the past 3 weeks, 
 
 - Feel free to ask about anything or bring up topics, as long as it's constructively stated. Other teammates could be unaware of an issue and bringing it up can help the team resolve something.
 
-**Project**
+**Application (MVP)**
 
 - 3 weeks for the rest of the application definitely feels short, but I think it's enough time for us to reach MVP status.
 - I think we can complete our application or get it decently functional, if we continue to work on the parts or tasks we are assigned for each Sprint.
