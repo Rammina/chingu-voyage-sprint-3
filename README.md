@@ -80,27 +80,29 @@ Others
 **Sprint 4 Tasks (should be done in S4 after finishing Ongoing tasks from S3)**
 
 - Checkout page
-  -- skeleton layout
-  -- design
-  -- payment form
-  -- Stripe API (mocking can lead to technical debt, meaning it will need to be refactored again which may use up time)
-  -- owners of a project should not be allowed to donate to their own project
-  -- backend controllers and routes
-  -- donating to a project should add that project to projectsSupported of the user object
-  -- donating to a project should add the user to donors of the project object
-  -- donating to a project should increase the amountDonated
-  -- I'm not sure yet if there should be a transaction object/model
+
+  - skeleton layout
+  - design
+  - payment form
+  - Stripe API (mocking can lead to technical debt, meaning it will need to be refactored again which may use up time)
+  - owners of a project should not be allowed to donate to their own project
+  - backend controllers and routes
+  - donating to a project should add that project to projectsSupported of the user object
+  - donating to a project should add the user to donors of the project object
+  - donating to a project should increase the amountDonated
+  - I'm not sure yet if there should be a transaction object/model
 
 - Dashboard
-  -- Update user information (action, reducer, controllers, route)
-  -- User account deletion
+
+  - Update user information (action, reducer, controllers, route)
+  - User account deletion
 
 - Projects
-  -- Update project information (action, reducer, controllers, route)
-  -- Delete project (action, reducer, controllers, route)
-  -- Connect Edit Project Form with a Edit Project button in the project page
-  -- Only show Edit Project button when the current user is the owner of the project, do not display it otherwise
-  -- Connect Delete Project Form with a Delete Project button in the project page
-  -- Only show Delete Project button when the current user is the owner of the project, do not display it otherwise
-  -- We need to decide where the user will be able to see the projects they supported (this is different from projects owned)
-  -- Donate button should be hidden if the owner of the project is viewing their own project
+  - Update project information (action, reducer, controllers, route)
+  - Delete project (action, reducer, controllers, route)
+  - Connect Edit Project Form with a Edit Project button in the project page
+  - Only show Edit Project button when the current user is the owner of the project, do not display it otherwise
+  - Connect Delete Project Form with a Delete Project button in the project page
+  - Only show Delete Project button when the current user is the owner of the project, do not display it otherwise
+  - We need to decide where the user will be able to see the projects they supported (this is different from projects owned)
+  - Donate button should be hidden if the owner of the project is viewing their own project
