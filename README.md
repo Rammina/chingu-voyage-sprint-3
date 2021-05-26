@@ -16,8 +16,9 @@ Objectively, I think that this was our best Sprint so far.
 
 ## Tasks
 
-**Completed tasks (or task groups) from Sprint 3:**
-Frontend
+### Completed tasks (or task groups) from Sprint 3:
+
+**Frontend**
 
 - User dashboard skeleton layout
 - Projects skeleton layout
@@ -33,7 +34,9 @@ Frontend
 - react-router dynamic routing (need to confirm with Seb once we merge everything)
 - folder and file restructuring and cleaning up of unnecessary folders and files
 
-API/Backend
+<hr />
+
+**API/Backend**
 
 - CRD (no update) Projects API
 - Project routes and controllers
@@ -41,13 +44,18 @@ API/Backend
 - GoogleAuth login works, and is dynamically routing (this is carryover from Sprint 2)
 - Log in and register user and store in database (from Sprint 2)
 
-Others
+<hr />
+
+**Others**
 
 - learn git basics and merging with teammates branch (carryover from Sprint 2)
 - pair programming
 
-**Ongoing Tasks (started in S3 but unfinished)**
-Frontend
+<hr />
+
+### Ongoing Tasks (started in S3 but unfinished)
+
+**Frontend**
 
 - User dashboard design
 - User dashboard should retrieve and display list of projects owned
@@ -64,11 +72,15 @@ Frontend
 
 - react-router routes not yet finalized
 
-Backend/API
+<hr />
+
+**Backend/API**
 
 - GET User & Project controller functions should use .populate to retrieve the actual objects
 
-Others
+<hr />
+
+**Others**
 
 - study application logic/structure (ideally, everyone should have a rough idea where things are and what they do)
 - keep coding style consistent with teammates if possible
@@ -77,7 +89,9 @@ Others
 - try using useSelector instead of connect with react-redux, test if it works on the components I made, and if there are no errors switch to useSelector
 - we should be more specific when pointing out errors
 
-**Sprint 4 Tasks (should be done in S4 after finishing Ongoing tasks from S3)**
+<hr />
+
+### Sprint 4 Tasks (should be done in S4 after finishing Ongoing Tasks from S3)
 
 - Checkout page
 
