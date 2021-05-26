@@ -14,6 +14,8 @@ Objectively, I think that this was our best Sprint so far.
 * We still have outdated branches that are not in-sync, and we did not merge the refactored file structure that Seb made yet.
 * I think we are not completely familiar with the application's overall structure yet.
 
+<hr />
+
 ## Tasks
 
 ### Completed tasks (or task groups) from Sprint 3:
