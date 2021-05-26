@@ -6,7 +6,6 @@ Objectively, I think that this was our best Sprint so far.
 
 **Positives:**
 
-
 - The best part is that we have improved our communication and collaboration as a team.
 - We report our status with teammates more often.
 - More of us are open to giving and receiving feedback, and asking for help.
@@ -17,9 +16,10 @@ Objectively, I think that this was our best Sprint so far.
 
 **Negatives/Shortcomings:**
 
-* We may have only finished 60-70% of our tasks assigned for the week, but it is okay because there were unexpected things that happened that interrupted us from working (e.g. getting sick, external/family interruptions, personal life stuff).
-* We still have outdated branches that are not in-sync, and we did not merge the refactored file structure that Seb made yet.
-* I think we are not completely familiar with the application's overall structure yet.
+- We may have only finished 60-70% of our tasks assigned for the week, but it is okay because there were unexpected things that happened that interrupted us from working (e.g. getting sick, external/family interruptions, personal life stuff).
+- We have to do more work and be more efficient in the coming weeks, if we want to finish the application.
+- We still have outdated branches that are not in-sync, and we did not merge the refactored file structure that Seb made yet.
+- I think we are not completely familiar with the application's overall structure yet.
 
 <hr />
 
@@ -150,6 +150,7 @@ Objectively, I think that this was our best Sprint so far.
   - User account deletion
 
 - Projects
+
   - Update project information (action, reducer, controllers, route)
   - Delete project (action, reducer, controllers, route)
   - Connect Edit Project Form with a Edit Project button in the project page
@@ -161,4 +162,35 @@ Objectively, I think that this was our best Sprint so far.
   <br>
 
   - We need to decide where the user will be able to see the projects they supported (this is different from projects owned)
-  
+
+  <hr>
+
+### Personal Opinions
+
+These are just my thoughts based on what we've experienced in the past 3 weeks, how you guys feel or think could be different from mine and that's okay:
+
+**Team Workflow**
+
+- Do a status report at least 3 times per week, let the team know what you're doing and what you're having trouble with.
+- Let's make sure to push to our own branch everyday (ideally) after working, even if it's not complete or there are bugs. (It makes it easy for other teammates to know what you're currently doing and what code you have)
+
+<br>
+
+- We should work on different parts of the application when alone, to avoid duplicate work and conflict with other teammates. (It feels really bad when the work you've done has to be deleted or removed because it doesn't work with what another person made.)
+
+<br>
+
+- If we want to add something to someone else's work or assist someone, make sure to ask for permission first and checkout to a different branch after pulling or cloning their work.
+- Duplicate work and out of sync files (files that are completely different from up-to-date branches) can really use up a lot of time that we have in a Sprint. It's best to avoid these as much as possible.
+
+<br>
+
+- When talking about a bug or error, let's try to be as specific as we can so that teammates understand and know where to look for them. (copying the error code, screenshots)
+
+- Feel free to ask about anything or bring up topics, as long as it's constructively stated. Other teammates could be unaware of an issue and bringing it up can help the team resolve something.
+
+**Project**
+
+- 3 weeks for the rest of the application definitely feels short, but I think it's enough time for us to reach MVP status.
+- I think we can complete our application or get it decently functional, if we continue to work on the parts or tasks we are assigned for each Sprint.
+- I think our working speed/efficiency will improve from here. We are starting to collaborate better than we did weeks ago, and I think we have a clear idea of what we have to do.
