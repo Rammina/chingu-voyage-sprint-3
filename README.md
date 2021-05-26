@@ -208,3 +208,8 @@ These are just my thoughts based on what we've experienced in the past 3 weeks, 
 - 3 weeks for the rest of the application definitely feels short, but I think it's enough time for us to reach MVP status.
 - I think we can complete our application or get it decently functional, if we continue to work on the parts or tasks we are assigned for each Sprint.
 - I think our working speed/efficiency will improve from here. We are starting to collaborate better than we did weeks ago, and I think we have a clear idea of what we have to do.
+
+<br>
+
+- Even if we did fail to achieve MVP status in 3 weeks, it's not too bad for me personally. The main purpose of the Chingu Voyage is to learn from others and gain experience working on a team. Personally, I think I learned a lot just from the 3 Sprints we've been through and I think we can learn more from each other in the coming 3 weeks.
+- However, that doesn't mean I am okay with not finishing the application by the deadline. I would get very frustrated, so I definitely prefer if we managed to complete the application.
