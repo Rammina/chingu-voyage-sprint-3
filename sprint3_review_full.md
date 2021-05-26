@@ -1,5 +1,18 @@
 # Sprint 3 Review
 
+<hr/>
+
+## Table of Contents
+
+- [Summary](https://github.com/Rammina/chingu-voyage-sprint-3#summary)
+- [Tasks](https://github.com/Rammina/chingu-voyage-sprint-3#tasks)
+  - [Completed tasks](https://github.com/Rammina/chingu-voyage-sprint-3#completed-tasks-or-task-groups-from-sprint-3)
+  - [Ongoing Tasks](https://github.com/Rammina/chingu-voyage-sprint-3#ongoing-tasks-started-in-s3-but-unfinished)
+  - [Sprint 4 Tasks](https://github.com/Rammina/chingu-voyage-sprint-3#sprint-4-tasks-should-be-done-in-s4-after-finishing-ongoing-tasks-from-s3)
+- [Personal Opinions](https://github.com/Rammina/chingu-voyage-sprint-3#personal-opinions)
+
+<hr>
+
 ## Summary
 
 Objectively, I think that this was our best Sprint so far.
