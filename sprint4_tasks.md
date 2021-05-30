@@ -9,10 +9,10 @@
 
 <br>
 
- ~~All projects list should retrieve and display up to 9 projects from the database~~
+- ~~All projects list should retrieve and display up to 9 projects from the database~~
 - Increment Projects by 9 each time the user clicks "Show More", until there are no more Projects
-- ~~Clicking a project in the projects list (both here and the dashboard) should redirect to the specific project page
-- ~~implement a Card component for each project
+- ~~Clicking a project in the projects list (both here and the dashboard) should redirect to the specific project page~~
+- ~~implement a Card component for each project~~
 
 <br>
 
@@ -44,7 +44,7 @@
 
 <br>
 
-- ~~try using useSelector instead of connect with react-redux, test if it works on the components I made, and if there are no errors switch to useSelector
+- ~~try using useSelector instead of connect with react-redux, test if it works on the components I made, and if there are no errors switch to useSelector~~
 - we should be more specific when pointing out errors
 
 <hr />
